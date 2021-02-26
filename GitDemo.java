@@ -9,6 +9,10 @@ public class GitDemo {
         previousNumber = 1;
     }
     
+    public void branch1(){
+        System.out.prinln("Adding a new function in demoBranch1.");
+    }
+    
     /*****
      * This function should add 'num' to 'previousNumber' and return the sum.
     *****/
