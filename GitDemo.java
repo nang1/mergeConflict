@@ -9,6 +9,10 @@ public class GitDemo {
         previousNumber = 1;
     }
     
+    public void branch1(){
+        System.out.prinln("Adding a new function in demoBranch1.");
+    }
+  
     public void branch2(){
         System.out.prinln("Adding a new function in demoBranch2.");
     }
